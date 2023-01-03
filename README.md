@@ -1,10 +1,11 @@
 # 6Companies30days
 
 <br/>[Link to Leetcode Profile](https://leetcode.com/yashhashhrrreee/)
-<br/>[Link to Original Doc File](https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZUN_Ag*3BFLrS08CZ3aVK0OFjDm2g#)
 
 <hr>
 **Challenge Company 1 : Microsoft**
+
+<br/>[Link to Original Doc File](https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZUN_Ag*3BFLrS08CZ3aVK0OFjDm2g#)
 
 <br/>01-You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
 <br/>02-Combination Sum with a twist.
